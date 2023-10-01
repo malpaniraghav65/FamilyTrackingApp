@@ -12,4 +12,5 @@
     <color name="PinkcardColor">#f0737b</color>
     <color name="White">#FFF</color>
     <color name="GreenCardColor">#63d2c8</color>
+    <color name="light_green">#98fffb</color>
 </resources>
